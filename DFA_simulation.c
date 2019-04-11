@@ -1,3 +1,4 @@
+//ROLL_NO-CSB17024
 /*Design a DFA for a regular language L1 and write a program to simulate the DFA. The program should
 be able to take any random string as input from the user and determine whether the string belongs to
 the language L1=w| the number of 0's in w is the multiple of 3 , alphabets={0,1})*/
